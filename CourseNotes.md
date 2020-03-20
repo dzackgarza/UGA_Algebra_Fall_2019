@@ -2,7 +2,9 @@
 title: "Algebra"
 ---
 
-!include ./sections/2019-01-01_summary.md
+!include sections/Preface.md
+
+!include sections/2019-01-01_summary.md
 
 !include sections/2019-08-15.md
 
